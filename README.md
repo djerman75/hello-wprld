@@ -1,2 +1,1 @@
-# hello-wprld
-repo
+Eto da ja malo probam
